@@ -1,4 +1,4 @@
-# GIF_SD_CARD/ ESP32 s3 Devkit
+# GIF_SD_CARD/ ESP32 S3 super mini
 
 # Cách upload file .bin bằng Web ESP Tool
   * B1. Vào web https://espressif.github.io/esptool-js/

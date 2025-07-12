@@ -8,3 +8,14 @@
   * B4. Chọn Program để tiến hành nạp.
   * B5. Nhấn nút rst để khởi động lại ESP32 CYD.
 
+# Sơ đồ dây 
+# SD card 
+ - CS 1
+ - MOSI 2
+ - SCK 3
+ - MISO 4
+# TFT 1.69
+ - SDA 12
+ - SCL 13
+ - CS 10
+ - DC 11

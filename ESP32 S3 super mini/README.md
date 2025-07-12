@@ -9,7 +9,7 @@
   * B5. Nhấn nút rst để khởi động lại ESP32 CYD.
 
 # Sơ đồ dây 
-# SD card 
+# SD CARD 
  - CS 1
  - MOSI 2
  - SCK 3

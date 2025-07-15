@@ -7,15 +7,3 @@
   * <img width="943" alt="sơ đồ" src="https://github.com/user-attachments/assets/1b0ed960-b028-43fe-b98e-e22702967023" />
   * B4. Chọn Program để tiến hành nạp.
   * B5. Nhấn nút rst để khởi động lại ESP32.
-
-# Sơ đồ dây 
-# SD CARD 
- - CS 1
- - MOSI 2
- - SCK 3
- - MISO 4
-# TFT 1.69
- - SDA 12
- - SCL 13
- - CS 10
- - DC 11
